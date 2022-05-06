@@ -1,0 +1,6 @@
+#clientId = ""
+#clientSecret = ""
+#refreshUrl = ""
+#refreshToken = "" //no need to provide
+#spreadSheetID = ""
+#worksheetName = ""
